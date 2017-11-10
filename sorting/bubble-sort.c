@@ -25,7 +25,7 @@ void bubbleSort(int array[], int range)
 	return;
 }
 
-int main (int argc, char *argv[])
+int main (void)
 {
 	for (int i = 0; i < NUM; i++)
 		printf("%d ", sample[i]);
